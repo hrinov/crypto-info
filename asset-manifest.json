@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crypto-info/static/css/main.5c804081.css",
+    "main.js": "/crypto-info/static/js/main.5d01a4b9.js",
+    "static/media/binance.svg": "/crypto-info/static/media/binance.c8597d0a6f7920c471e75849e0123596.svg",
+    "static/media/rising-arrow.svg": "/crypto-info/static/media/rising-arrow.c585ee5d629f0458a2fda396d99d85a3.svg",
+    "static/media/falling-arrow.svg": "/crypto-info/static/media/falling-arrow.3a4381684b3de0387e9970b9a373d882.svg",
+    "static/media/logoColor.svg": "/crypto-info/static/media/logoColor.2e5e0b30a4c3bf4637759cbe0eb20546.svg",
+    "static/media/error.svg": "/crypto-info/static/media/error.b74075ba31273b54cf423116e222961b.svg",
+    "static/media/logo.svg": "/crypto-info/static/media/logo.aa6afd92db048d984514f64ec0d6a883.svg",
+    "index.html": "/crypto-info/index.html",
+    "static/media/spinner.svg": "/crypto-info/static/media/spinner.a2a67e1d2cce2ed2fb93324ad5415def.svg",
+    "static/media/arrow-right.svg": "/crypto-info/static/media/arrow-right.0aadb05b8ca5b06dddd06e17747a7e70.svg",
+    "static/media/arrow-left.svg": "/crypto-info/static/media/arrow-left.a919f2982bd775e93eef2545877cfa43.svg",
+    "main.5c804081.css.map": "/crypto-info/static/css/main.5c804081.css.map",
+    "main.5d01a4b9.js.map": "/crypto-info/static/js/main.5d01a4b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c804081.css",
+    "static/js/main.5d01a4b9.js"
+  ]
+}
