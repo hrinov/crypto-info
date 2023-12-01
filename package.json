@@ -1,6 +1,5 @@
 {
   "name": "proj",
-  "homepage": "https://ruslan-hrinov.github.io/crypto-info/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
